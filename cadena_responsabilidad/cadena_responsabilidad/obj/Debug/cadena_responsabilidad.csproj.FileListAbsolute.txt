@@ -1,0 +1,6 @@
+c:\users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\bin\Debug\cadena_responsabilidad.exe.config
+C:\Users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\obj\Debug\cadena_responsabilidad.csprojResolveAssemblyReference.cache
+C:\Users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\bin\Debug\cadena_responsabilidad.exe
+C:\Users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\bin\Debug\cadena_responsabilidad.pdb
+C:\Users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\obj\Debug\cadena_responsabilidad.exe
+C:\Users\kriste\documents\visual studio 2012\Projects\cadena_responsabilidad\cadena_responsabilidad\obj\Debug\cadena_responsabilidad.pdb

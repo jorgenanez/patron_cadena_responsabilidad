@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\bin\Debug\Ptrondcomportamiento.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\bin\Debug\Ptrondcomportamiento.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\bin\Debug\Ptrondcomportamiento.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\obj\Debug\Ptrondcomportamiento.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\obj\Debug\Ptrondcomportamiento.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Ptrondcomportamiento\Ptrondcomportamiento\obj\Debug\Ptrondcomportamiento.pdb
